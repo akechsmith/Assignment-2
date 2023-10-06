@@ -1,3 +1,6 @@
+# Akech Dau Atem
+# SCT211-0535/2022
+
 # Input a year from the user
 year = int(input("Enter a year: "))
 
