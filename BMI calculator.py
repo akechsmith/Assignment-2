@@ -1,6 +1,9 @@
-# Input weight (in kilograms) and height (in centimeters)
-weight = int(input("Enter your weight in kilograms: "))
-height = int(input("Enter your height in centimeters: "))
+# Akech Dau Atem
+# SCT211-0535/2022
+
+# Input weight (in kg) and height (in cm)
+weight = int(input("Enter your weight in kg: "))
+height = int(input("Enter your height in cm: "))
 
 # Convert height to meters
 height_meters = height / 100
