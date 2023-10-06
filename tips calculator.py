@@ -1,3 +1,7 @@
+# Akech Dau Atem
+# SCT211-0535/2022
+
+
 # Input the total bill amount
 total_bill = float(input("Enter the total bill amount: "))
 
